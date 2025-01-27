@@ -1,0 +1,4 @@
+qiskit==0.44.1
+qiskit-aer==0.12.2
+scipy==1.11.3
+numpy==1.24.3
